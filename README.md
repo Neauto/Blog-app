@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-!Important run ### `npm install` in terminal to install node_modules to execute the following command given bellow.
+### !Important run `npm install` in terminal to install node_modules to execute the following command given bellow.
 
 ### `npm start`
 
